@@ -14,10 +14,10 @@
                     <a :href="`https://etherscan.io/address/${tipsAddress}`" target="_blank">
                         <i class="icon-ethereum"></i>&nbsp;&nbsp;&nbsp;Donate
                     </a>
-                    <a href="https://github.com/bokub/vanity-eth" target="_blank">
+                    <a href="https://github.com/PharoahCoder/Any-ETH" target="_blank">
                         <i class="icon-star"></i>&nbsp;&nbsp;&nbsp;Star&nbsp;me
                     </a>
-                    <a href="https://github.com/bokub/vanity-eth/wiki/download-Vanity-ETH" target="_blank">
+                    <a href="https://github.com/PharoahCoder/Any-ETH/wiki/download-Vanity-ETH" target="_blank">
                         <i class="icon-download"></i>&nbsp;&nbsp;&nbsp;Download
                     </a>
                 </div>

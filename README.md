@@ -67,8 +67,8 @@ The Travis CI bot 🤖 is in charge of building and deploying Vanity-ETH to Gith
 from source is you want
 
 ```sh
-git clone https://github.com/bokub/vanity-eth
-cd vanity-eth
+git clone https://github.com/PharoahCoder/Any-ETH
+cd Any-ETH
 npm i
 npm run build
 ```

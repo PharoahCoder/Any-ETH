@@ -9,8 +9,8 @@
             <h3>Security alert</h3>
 
             You are using Vanity-ETH from an unknown website, which could steal your private keys.<br>
-            To stay safe, use Vanity-ETH on <a href="https://vanity-eth.tk" target="_blank">vanity-eth.tk</a>, or
-            download the latest build <a href="https://git.io/veth-dl" target="_blank">here</a> to use offline.
+            To stay safe, use Vanity-ETH on <a href="https://any-eth.dcoder.dev" target="_blank">any-eth.dcoder.dev</a>, or
+            download the latest build <a href="https://github.com/PharoahCoder/Any-ETH" target="_blank">here</a> to use offline.
         </div>
         <p v-else v-html="error.replace('\n', '<br>')"></p>
     </div>
